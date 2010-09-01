@@ -1,0 +1,6 @@
+[global_settings]
+network = irc.freenode.com
+user_bobng = 1
+password = 
+port = 6667
+channel = #relaybot
